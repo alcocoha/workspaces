@@ -1,0 +1,16 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+.browser{
+  background-color: rgba(0, 0, 0, .5);
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  height: 100px;
+  display: flex;
+
+  .css-12xsz1s-MuiButtonBase-root-MuiButton-root{
+    padding: 15px;
+  }
+}

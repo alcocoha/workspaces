@@ -1,0 +1,20 @@
+{
+  "name": "server-workspaces",
+  "version": "1.0.0",
+  "description": "This is the final project to Introduction to  Web Programming",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Abigail Cruz, Maria Estrella, Debora Salles Antunes, Jorge Alberto Hurtado Ortega",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "sqlite3": "^5.0.8",
+    "uuidv4": "^6.2.13"
+  }
+}
